@@ -3,6 +3,7 @@
 ### Лабораторна робота №**1**. Опис імітаційних моделей та проведення обчислювальних експериментів
 
 <br>
+
 ### Варіант 7 (20 mod 13), модель у середовищі NetLogo:
 7. [Wolf Sheep Predation](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Wolf%20Sheep%20Predation.nlogo).
 
